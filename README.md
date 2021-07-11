@@ -1,6 +1,10 @@
 # Construindo um sistema de controle de ponto e acesso com Spring Boot
 Desenvolvi uma API Rest para controle de ponto e acesso dos usuários de uma empresa. Utilizei Java, Spring Boot, Hibernate Envers e lombok além de documentar toda a API com Swagger.
 
+## Pré-requisitos 
+- IntelliJ IDEA 
+- Java com versão 8 ou maior
+
 ## Passo 1 
 - No IntelliJ abri o arquivo gerado e configure os mesmos passos para o Spring Initializr: 
 - Gradle Project 
