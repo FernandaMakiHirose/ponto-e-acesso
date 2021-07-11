@@ -47,7 +47,7 @@ gradle bootRun
 - Abra o seu navegador e digite: localhost:8082/h2
 - Clique em connect
 
-![Screenshot](img/image.png)
+![Screenshot](img/projeto/diolive/image.png)
 
 - Ou você pode abrir com o <a href="http://localhost:8082/swagger-ui.html">Swager</a> 
 
