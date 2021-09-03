@@ -5,6 +5,9 @@ Desenvolvi uma API Rest para controle de ponto e acesso dos usuários de uma emp
 - IntelliJ IDEA. 
 - Java com versão 8 ou maior.
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Passo 1 
 - No IntelliJ abri o arquivo gerado e configure os mesmos passos para o Spring Initializr: 
 - Gradle Project.
