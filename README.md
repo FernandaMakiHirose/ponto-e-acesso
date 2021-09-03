@@ -1,7 +1,7 @@
 # Construindo um sistema de controle de ponto e acesso com Spring Boot
 Desenvolvi uma API Rest para controle de ponto e acesso dos usuários de uma empresa. Utilizei Java, Spring Boot, Hibernate Envers e lombok além de documentar toda a API com Swagger.
 
-## Pré-requisitos 
+## Requisitos 
 - IntelliJ IDEA. 
 - Java com versão 8 ou maior.
 
@@ -55,8 +55,3 @@ Desenvolvi uma API Rest para controle de ponto e acesso dos usuários de uma emp
 ![image](https://user-images.githubusercontent.com/72028645/125210423-2897fe00-e276-11eb-8bb5-d963c1d3efa0.png)
 
 - Ou você pode abrir com o <a href="http://localhost:8082/swagger-ui.html">Swager.</a> 
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com o meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
